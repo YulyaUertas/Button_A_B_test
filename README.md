@@ -1,10 +1,11 @@
 # -
-На основе данных использования мобильного приложения для продажи продуктов питания 
-проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования 
+Based on the data from the usage of a mobile application for food product sales,
+analyze the sales funnel and evaluate the results of A/A/B testing.
 
 
-В данном проекте мной были изучены принципы событийной аналитики. Я построила
-воронку продаж, исследовала путь пользователей до покупки. Проанализировала
-результаты A/B-теста введения новых шрифтов. Сравнила 2 контрольных группы между
-собой, убедилась в правильном разделении трафика, а затем сравнила с тестовой группой
-Выявлено, что новый шрифт значительно не повлияет на поведение пользователей.
+
+In this project, I have studied the principles of event analytics. I constructed a sales funnel, 
+investigated the user journey to purchase, and analyzed the results of an A/B 
+test for the introduction of new fonts. I compared two control groups to ensure correct traffic 
+allocation and then compared them to the test group. It was found that the new font had a minimal 
+impact on user behavior.
